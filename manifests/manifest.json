@@ -1,0 +1,60 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://hannagentili.github.io/Renaissance.wedding.goals/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : [ "BL 1978 f.3 ", {
+    "@value" : "Wedding Songs and Riddles "
+  }, {
+    "@value" : "Gemara "
+  }, {
+    "@value" : "Jewish Life in Renaissance Italy"
+  } ],
+  "metadata" : [ {
+    "label" : "Language",
+    "value" : "Italian"
+  }, {
+    "label" : "Language",
+    "value" : "Hebrew"
+  } ],
+  "description" : [ {
+    "@value" : "Broadsheets containing wedding poems and riddles were particularly popular in Renaissance Italy and a great number of printed broadsheets is preserved in various collections and archives around the world",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "sequences" : [ {
+    "@id" : "http://03e272d0-10e2-4110-a17d-6fbad37bd3b9",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://dc882846-f792-4438-88a5-7d7df06fef63",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 1280,
+      "width" : 886,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a116a1d8-a731-4a5d-a737-ee29bc029d9f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/weddinggoals_202303/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/weddinggoals_202303",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1280,
+          "width" : 886
+        },
+        "on" : "http://dc882846-f792-4438-88a5-7d7df06fef63"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
