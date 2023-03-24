@@ -15,9 +15,5 @@
     }, {
       "@value" : "Jewish Life in Renaissance Italy"
     } ]
-  }, {
-    "@type" : "sc:Manifest",
-    "@id" : "https://hannagentili.github.io/Renaissance.wedding.goals/manifests/manifest3.json",
-    "label" : "Milan, Biblioteca Braidense, Misc. Ebr. 1-186"
   } ]
 }
