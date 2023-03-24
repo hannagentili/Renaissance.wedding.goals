@@ -31,7 +31,7 @@
     "canvases" : [ {
       "@id" : "http://dc882846-f792-4438-88a5-7d7df06fef63",
       "@type" : "sc:Canvas",
-      "label" : "Empty canvas",
+      "label" : "Printed Broadsheet",
       "height" : 1280,
       "width" : 886,
       "images" : [ {
