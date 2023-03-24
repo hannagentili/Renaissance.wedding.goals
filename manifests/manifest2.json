@@ -1,0 +1,55 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://hannagentili.github.io/Renaissance.wedding.goals/manifests/manifest2.json",
+  "@type" : "sc:Manifest",
+  "label" : "Wedding Poems and Riddles",
+  "metadata" : [ {
+    "label" : "Language",
+    "value" : "Italiano, Hebrew"
+  } ],
+  "description" : [ {
+    "@value" : "Broadsheets containing wedding poems and riddles were particularly popular in Renaissance Italy and a great number of printed broadsheets is preserved in various collections and archives around the world.",
+    "@language" : "en"
+  } ],
+  "license" : "National Library of Israel",
+  "attribution" : "",
+  "sequences" : [ {
+    "@id" : "http://20b6fb67-2aad-4d9f-aa19-1fa77a688492",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://503890d4-533a-4dfc-bc10-0571db205179",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 978,
+      "width" : 642,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b0c99d90-54e4-4d63-bd80-e33700bf37f8",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://hannagentili.github.io/Renaissance.wedding.goals/images/ValmadonnaRiddle/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://hannagentili.github.io/Renaissance.wedding.goals/images/ValmadonnaRiddle",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 978,
+          "width" : 642
+        },
+        "on" : "http://503890d4-533a-4dfc-bc10-0571db205179"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ],
+  "thumbnail" : {
+    "@id" : "http://503890d4-533a-4dfc-bc10-0571db205179"
+  }
+}
