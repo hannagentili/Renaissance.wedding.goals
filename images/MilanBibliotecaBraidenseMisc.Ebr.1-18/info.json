@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 19,
+    "height" : 27
+  }, {
+    "width" : 37,
+    "height" : 53
+  }, {
+    "width" : 73,
+    "height" : 105
+  }, {
+    "width" : 146,
+    "height" : 210
+  }, {
+    "width" : 292,
+    "height" : 420
+  }, {
+    "width" : 584,
+    "height" : 840
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 584,
+  "@id" : "https://hannagentili.github.io/Renaissance.wedding.goals/images/MilanBibliotecaBraidenseMisc.Ebr.1-18",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 840
+}
