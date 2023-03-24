@@ -1,0 +1,66 @@
+{
+  "id" : "https://hannagentili.github.io/Renaissance.wedding.goals/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in hannagentili/Renaissance.wedding.goals project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 886,
+    "id" : "https://hannagentili.github.io/Renaissance.wedding.goals/images/BL1978.f.3/canvas/",
+    "label" : {
+      "none" : [ "BL1978.f.3" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://hannagentili.github.io/Renaissance.wedding.goals/images/BL1978.f.3/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://hannagentili.github.io/Renaissance.wedding.goals/images/BL1978.f.3/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 28,
+              "height" : 40
+            }, {
+              "width" : 56,
+              "height" : 80
+            }, {
+              "width" : 111,
+              "height" : 160
+            }, {
+              "width" : 222,
+              "height" : 320
+            }, {
+              "width" : 443,
+              "height" : 640
+            }, {
+              "width" : 886,
+              "height" : 1280
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 886,
+            "@id" : "https://hannagentili.github.io/Renaissance.wedding.goals/images/BL1978.f.3",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1280
+          } ],
+          "format" : "image/jpeg",
+          "width" : 886,
+          "id" : "https://hannagentili.github.io/Renaissance.wedding.goals/images/BL1978.f.3/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1280
+        },
+        "target" : "https://hannagentili.github.io/Renaissance.wedding.goals/images/BL1978.f.3/canvas/"
+      } ]
+    } ],
+    "height" : 1280
+  } ]
+}
