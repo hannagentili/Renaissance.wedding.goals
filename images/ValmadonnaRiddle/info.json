@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 21,
+    "height" : 31
+  }, {
+    "width" : 41,
+    "height" : 62
+  }, {
+    "width" : 81,
+    "height" : 123
+  }, {
+    "width" : 161,
+    "height" : 245
+  }, {
+    "width" : 321,
+    "height" : 489
+  }, {
+    "width" : 642,
+    "height" : 978
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 642,
+  "@id" : "https://hannagentili.github.io/Renaissance.wedding.goals/images/ValmadonnaRiddle",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 978
+}
