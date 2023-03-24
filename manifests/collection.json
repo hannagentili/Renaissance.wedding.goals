@@ -15,5 +15,9 @@
     }, {
       "@value" : "Jewish Life in Renaissance Italy"
     } ]
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://hannagentili.github.io/Renaissance.wedding.goals/manifests/manifest2.json",
+    "label" : "Wedding Poems and Riddles"
   } ]
 }
