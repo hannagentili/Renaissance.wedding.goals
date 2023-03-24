@@ -1,0 +1,19 @@
+{
+  "id" : "https://hannagentili.github.io/Renaissance.wedding.goals/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in hannagentili/Renaissance.wedding.goals project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://hannagentili.github.io/Renaissance.wedding.goals/manifests/manifest.json",
+    "label" : [ "BL 1978 f.3 ", {
+      "@value" : "Wedding Songs and Riddles "
+    }, {
+      "@value" : "Gemara "
+    }, {
+      "@value" : "Jewish Life in Renaissance Italy"
+    } ]
+  } ]
+}
