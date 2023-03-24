@@ -28,7 +28,7 @@
     "canvases" : [ {
       "@id" : "http://dc882846-f792-4438-88a5-7d7df06fef63",
       "@type" : "sc:Canvas",
-      "label" : "Printed Broadsheet",
+      "label" : "BL 1978 f.3",
       "height" : 1280,
       "width" : 886,
       "images" : [ {
